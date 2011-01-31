@@ -1,2 +1,11 @@
-original code is available from the hg repository http://hg.mozilla.org/users/clarkbw_gnome.org/googlecalendartab/
+This is the official source code for the Google Calendar (Thunderbird) Tab.
 
+I don't take feature requests or fix bugs (that I don't see myself) so if you'd like something done you have to contribute. And thanks! :-)
+
+Here's how to contribute: `fork`, `clone`, `create`, `audit`, `commit`, `push` and then create a pull request (from a new branch, not master).  If everything looks good I'll accept your pull request and then update the add-on.
+
+---
+
+The add-on: https://addons.mozilla.org/en-US/thunderbird/addon/google-calendar-tab/
+
+The original code: http://hg.mozilla.org/users/clarkbw_gnome.org/googlecalendartab/
