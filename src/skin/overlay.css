@@ -1,0 +1,17 @@
+#google-calendar-tabbutton,
+#google-calendar-menuitem {
+  list-style-image: url('http://calendar.google.com/googlecalendar/images/favicon.ico');
+}
+#google-calendar-toolbarbutton {
+  list-style-image: url('chrome://googlecalendartab/skin/calendar-icon.png');
+}
+#google-calendar-toolbarbutton:active {
+  opacity: 0.9;
+}
+#google-calendar-tabbutton > label {
+  display: none;
+}
+/* XXX nice attribute selector label=BIG HACK! */
+tab[type="contentTab"][label="Google Calendar"] .tab-icon-image {
+  list-style-image: url('http://calendar.google.com/googlecalendar/images/favicon.ico');
+}

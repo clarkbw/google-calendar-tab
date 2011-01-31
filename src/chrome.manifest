@@ -1,0 +1,5 @@
+content   googlecalendartab   content/
+locale    googlecalendartab   en-US         locale/en-US/
+skin      googlecalendartab   classic/1.0   skin/
+overlay   chrome://messenger/content/messenger.xul  chrome://googlecalendartab/content/googlecalendartab.xul
+style     chrome://global/content/customizeToolbar.xul  chrome://googlecalendartab/skin/overlay.css

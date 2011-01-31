@@ -1,0 +1,9 @@
+<!ENTITY prefwindow.title "Google Calendar Tab Preferences">
+<!ENTITY prefpane.title "Google Calendar Tab Preferences">
+
+<!ENTITY default_url_menuitem.label "Google Calendar">
+
+<!ENTITY other_url_menuitem.label "Google Apps for your domain">
+
+<!ENTITY other_url_entry_pref.label "URL:">
+<!ENTITY other_url_entry_pref.accesskey "A">

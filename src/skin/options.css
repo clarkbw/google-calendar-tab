@@ -1,0 +1,14 @@
+prefwindow {
+  min-width: 640px;
+  min-height: 120px;
+}
+prefpane {
+  padding: 14pt;
+}
+radio {
+  margin-top: 7pt;
+}
+
+#googlecalendartab_other_url_entry {
+  min-width: 100%;
+}
