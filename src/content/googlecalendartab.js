@@ -52,7 +52,7 @@ var googlecalendartab = {
     getOptions: function () {
         // Grab a default URL value here just in case
         var url = Application.prefs.getValue(this.EXT_PREF("url"), googlecalendartab.DEFAULT_URL);
-        this.regexp = new RegExp("^" + "(" + url + "|https://www.google.com/accounts");
+        this.regexp = new RegExp("^" + "(" + url + "|https://www.google.com/accounts)");
         return { "background"   : false,
                  "clickHandler" : "specialTabs.siteClickHandler(event, googlecalendartab.regexp);",
                  "contentPage"  :  url};
