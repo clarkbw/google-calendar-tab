@@ -42,7 +42,7 @@
             xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
             title="&prefwindow.title;">
 
-  <script type="application/x-javascript" src="googlecalendartab.js;version=1.8"/>
+  <script type="application/x-javascript" src="googlecalendartab.js"/>
 
   <prefpane id="prefpane" label="&prefpane.title;" onpaneload="googlecalendartab.preferences.init();">
     <preferences>
