@@ -2,7 +2,7 @@ This is the official source code for the Google Calendar (Thunderbird) Tab.
 
 I don't take feature requests or fix bugs (that I don't see myself) so if you'd like something done you have to contribute. And thanks! :-)
 
-Here's how to contribute: `fork`, `clone`, `create`, `audit`, `commit`, `push` and then create a pull request (from a new branch, not master).  If everything looks good I'll accept your pull request and then update the add-on.
+See [Contributing](CONTRIBUTING.md) for more details on how you can help.
 
 ---
 
